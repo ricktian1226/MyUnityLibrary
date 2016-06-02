@@ -1,0 +1,14 @@
+E:\UnityProjects\MyUnityLibrary\MyUnityLibrary\MyUnityLibrary\bin\Debug\MyUnityLibrary.dll
+E:\UnityProjects\MyUnityLibrary\MyUnityLibrary\MyUnityLibrary\bin\Debug\MyUnityLibrary.pdb
+E:\UnityProjects\MyUnityLibrary\MyUnityLibrary\MyUnityLibrary\bin\Debug\UnityEngine.dll
+E:\UnityProjects\MyUnityLibrary\MyUnityLibrary\MyUnityLibrary\bin\Debug\UnityEngine.xml
+E:\UnityProjects\MyUnityLibrary\MyUnityLibrary\MyUnityLibrary\obj\Debug\MyUnityLibrary.csprojResolveAssemblyReference.cache
+E:\UnityProjects\MyUnityLibrary\MyUnityLibrary\MyUnityLibrary\obj\Debug\MyUnityLibrary.dll
+E:\UnityProjects\MyUnityLibrary\MyUnityLibrary\MyUnityLibrary\obj\Debug\MyUnityLibrary.pdb
+E:\gitlab_MyUnityLibrary\MyUnityLibrary\bin\Debug\MyUnityLibrary.dll
+E:\gitlab_MyUnityLibrary\MyUnityLibrary\bin\Debug\MyUnityLibrary.pdb
+E:\gitlab_MyUnityLibrary\MyUnityLibrary\bin\Debug\UnityEngine.dll
+E:\gitlab_MyUnityLibrary\MyUnityLibrary\bin\Debug\UnityEngine.xml
+E:\gitlab_MyUnityLibrary\MyUnityLibrary\obj\Debug\MyUnityLibrary.csprojResolveAssemblyReference.cache
+E:\gitlab_MyUnityLibrary\MyUnityLibrary\obj\Debug\MyUnityLibrary.dll
+E:\gitlab_MyUnityLibrary\MyUnityLibrary\obj\Debug\MyUnityLibrary.pdb
